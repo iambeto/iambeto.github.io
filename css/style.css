@@ -305,7 +305,7 @@ figure img:hover,
 }
 
 /*popular post*/
-.right_div_post {
+/*.right_div_post {
     background: #fff;
     box-shadow: 0 1rem 3rem -1rem rgba(0, 0, 0, 0.4);
 }
@@ -346,7 +346,7 @@ figure img:hover,
 .popular_post__img4 {
     background-image: url('../images/sj.jpg');
     background-size: var(--bg-size);
-}
+}*/
 
 /*blog tags start*/
 .tags_main {
