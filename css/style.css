@@ -278,7 +278,7 @@ figure img:hover,
     justify-content: flex-end;
     align-items: flex-start;
     flex-direction: column;
-    background-image: linear-gradient(to bottom, transparent 50%, rgba(208, 206, 207, 0.8) 50%), url('../images/thapa.jpg');
+    /*background-image: linear-gradient(to bottom, transparent 50%, rgba(208, 206, 207, 0.8) 50%), url('../images/thapa.jpg');*/
     background-size: var(--bg-size);
 }
 
